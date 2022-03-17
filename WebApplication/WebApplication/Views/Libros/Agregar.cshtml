@@ -1,0 +1,25 @@
+﻿@model Datos.Models.Libros
+
+<div class="container-fluid">
+    <form novalidate="novalidate" enctype="multipart/form-data" method="post" asp-action="Agregar" asp-controller="Libros">
+    <fieldset>
+        <div class="row">
+            <div class="col-md-4">
+                <label class="control-label" asp-for="Titulo">Titulo</label>
+                <input class="form-control" asp-for="Titulo" type="text" />
+            </div>
+            <div class="col-md-4">
+                <label class="control-label" asp-for="Autor">Autor</label>
+                <input class="form-control" asp-for="Autor" type="text" />
+            </div>
+            <div class="col-md-4">
+                <label class="control-label" asp-for="CodigoEditorial">CodigoEditorial</label>
+                <input class="form-control" type="number" asp-for="CodigoEditorial" />
+
+            </div>
+
+        </div>
+        <button class="btn btn-primary" type="submit">Enviar</button>
+    </fieldset>
+    </form>
+</div>

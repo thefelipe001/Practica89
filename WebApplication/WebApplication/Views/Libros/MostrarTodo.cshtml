@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Datos.Models.Libros>
+
+
+    <button class="btn btn-primary" onclick="location.href='/Libros/Agregar'" >Agregar</button>  
+<table class="table d-lg-table">
+    <tr style="background-color:blue">
+
+        <th>Codigo</th>
+        <th>Titulo</th>
+        <th>Acciones</th>
+
+    </tr>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Codigo</th>
+                <th>@item.Titulo</th>
+                <th>
+                    <a href ="Filtrar/@item.Codigo" class="btn btn-warning">Detalle</a>
+                    <a href ="Eliminar/@item.Codigo" class="btn btn-danger">Eliminar</a>
+                    <a href ="Editar/@item.Codigo" class="btn btn-danger">Editar</a>
+
+                </th> 
+                
+            </tr>
+
+        }
+
+
+    </tbody>
+
+</table>

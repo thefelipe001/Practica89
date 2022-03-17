@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88fcf9c3-c7a8-4cf2-be67-55f13b6e9304": {
+      "ProjectGuid": "88fcf9c3-c7a8-4cf2-be67-55f13b6e9304",
+      "DisplayName": "WebApplication21",
+      "ColorIndex": 0
+    },
+    "4e48a00e-4d9e-4269-999f-4bcf655e05d0": {
+      "ProjectGuid": "4e48a00e-4d9e-4269-999f-4bcf655e05d0",
+      "DisplayName": "Datos",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "04bb54bf-f2c2-43cc-95d0-7c5e098a267f": {
+      "ProjectGuid": "04bb54bf-f2c2-43cc-95d0-7c5e098a267f",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 2
+    },
+    "b9f56933-967e-4eb2-bada-70c2329b5f75": {
+      "ProjectGuid": "b9f56933-967e-4eb2-bada-70c2329b5f75",
+      "DisplayName": "DatosWeb",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

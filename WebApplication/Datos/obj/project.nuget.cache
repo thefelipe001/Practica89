@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIQGYMvFmNuTKnJz5+gAmDAsceVacx619zmJiODcKzkYDNiX0clXVDAJ40a82yFdWZ3sKDwswjvQl4XLbE9gJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felipe\\source\\repos\\WebApplication\\Datos\\Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

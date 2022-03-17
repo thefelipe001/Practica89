@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8efa2001-3459-4144-a8f5-3eff24472d12": {
+      "ProjectGuid": "8efa2001-3459-4144-a8f5-3eff24472d12",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 0
+    },
+    "ee0db21b-edfc-4bc8-8c45-6efa8d06aec2": {
+      "ProjectGuid": "ee0db21b-edfc-4bc8-8c45-6efa8d06aec2",
+      "DisplayName": "Datos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
